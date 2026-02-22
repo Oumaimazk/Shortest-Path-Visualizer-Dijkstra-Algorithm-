@@ -1,0 +1,662 @@
+[
+  {
+    "source": "Boukhalef",
+    "destination": "Achakar",
+    "path": ["Boukhalef", "Achakar"],
+    "distance": 7.40
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "Mesnana",
+    "path": ["Boukhalef", "Mesnana"],
+    "distance": 4.70
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "Marjane",
+    "path": ["Boukhalef", "Marjane"],
+    "distance": 5.60
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "SocoAlto",
+    "path": ["Boukhalef", "Mesnana", "SocoAlto"],
+    "distance": 9.60
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "MarinaBay",
+    "path": ["Boukhalef", "Mesnana", "Iberia", "MarinaBay"],
+    "distance": 13.90
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "Iberia",
+    "path": ["Boukhalef", "Mesnana", "Iberia"],
+    "distance": 10.60
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "Bnimakada",
+    "path": ["Boukhalef", "Marjane", "Bnimakada"],
+    "distance": 9.40
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "Merchan",
+    "path": ["Boukhalef", "Mesnana", "Iberia", "Merchan"],
+    "distance": 11.60
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "TanjaBalia",
+    "path": ["Boukhalef", "Mesnana", "Iberia", "RiadTetouan", "TanjaBalia"],
+    "distance": 17.70
+  },
+  {
+    "source": "Boukhalef",
+    "destination": "RiadTetouan",
+    "path": ["Boukhalef", "Mesnana", "Iberia", "RiadTetouan"],
+    "distance": 13.30
+  },
+  {
+    "source": "Achakar",
+    "destination": "Boukhalef",
+    "path": ["Achakar", "Boukhalef"],
+    "distance": 7.40
+  },
+  {
+    "source": "Achakar",
+    "destination": "Mesnana",
+    "path": ["Achakar", "Boukhalef", "Mesnana"],
+    "distance": 12.10
+  },
+  {
+    "source": "Achakar",
+    "destination": "Marjane",
+    "path": ["Achakar", "Boukhalef", "Marjane"],
+    "distance": 13.00
+  },
+  {
+    "source": "Achakar",
+    "destination": "SocoAlto",
+    "path": ["Achakar", "SocoAlto"],
+    "distance": 12.30
+  },
+  {
+    "source": "Achakar",
+    "destination": "MarinaBay",
+    "path": ["Achakar", "SocoAlto", "Iberia", "MarinaBay"],
+    "distance": 18.90
+  },
+  {
+    "source": "Achakar",
+    "destination": "Iberia",
+    "path": ["Achakar", "SocoAlto", "Iberia"],
+    "distance": 15.60
+  },
+  {
+    "source": "Achakar",
+    "destination": "Bnimakada",
+    "path": ["Achakar", "Boukhalef", "Marjane", "Bnimakada"],
+    "distance": 16.80
+  },
+  {
+    "source": "Achakar",
+    "destination": "Merchan",
+    "path": ["Achakar", "SocoAlto", "Iberia", "Merchan"],
+    "distance": 16.60
+  },
+  {
+    "source": "Achakar",
+    "destination": "TanjaBalia",
+    "path": ["Achakar", "SocoAlto", "Iberia", "RiadTetouan", "TanjaBalia"],
+    "distance": 22.70
+  },
+  {
+    "source": "Achakar",
+    "destination": "RiadTetouan",
+    "path": ["Achakar", "SocoAlto", "Iberia", "RiadTetouan"],
+    "distance": 18.30
+  },
+  {
+    "source": "Mesnana",
+    "destination": "Boukhalef",
+    "path": ["Mesnana", "Boukhalef"],
+    "distance": 4.70
+  },
+  {
+    "source": "Mesnana",
+    "destination": "Achakar",
+    "path": ["Mesnana", "Boukhalef", "Achakar"],
+    "distance": 12.10
+  },
+  {
+    "source": "Mesnana",
+    "destination": "Marjane",
+    "path": ["Mesnana", "Marjane"],
+    "distance": 2.20
+  },
+  {
+    "source": "Mesnana",
+    "destination": "SocoAlto",
+    "path": ["Mesnana", "SocoAlto"],
+    "distance": 4.90
+  },
+  {
+    "source": "Mesnana",
+    "destination": "MarinaBay",
+    "path": ["Mesnana", "Iberia", "MarinaBay"],
+    "distance": 9.20
+  },
+  {
+    "source": "Mesnana",
+    "destination": "Iberia",
+    "path": ["Mesnana", "Iberia"],
+    "distance": 5.90
+  },
+  {
+    "source": "Mesnana",
+    "destination": "Bnimakada",
+    "path": ["Mesnana", "Marjane", "Bnimakada"],
+    "distance": 6.00
+  },
+  {
+    "source": "Mesnana",
+    "destination": "Merchan",
+    "path": ["Mesnana", "Iberia", "Merchan"],
+    "distance": 6.90
+  },
+  {
+    "source": "Mesnana",
+    "destination": "TanjaBalia",
+    "path": ["Mesnana", "Iberia", "RiadTetouan", "TanjaBalia"],
+    "distance": 13.00
+  },
+  {
+    "source": "Mesnana",
+    "destination": "RiadTetouan",
+    "path": ["Mesnana", "Iberia", "RiadTetouan"],
+    "distance": 8.60
+  },
+  {
+    "source": "Marjane",
+    "destination": "Boukhalef",
+    "path": ["Marjane", "Boukhalef"],
+    "distance": 5.60
+  },
+  {
+    "source": "Marjane",
+    "destination": "Achakar",
+    "path": ["Marjane", "Boukhalef", "Achakar"],
+    "distance": 13.00
+  },
+  {
+    "source": "Marjane",
+    "destination": "Mesnana",
+    "path": ["Marjane", "Mesnana"],
+    "distance": 2.20
+  },
+  {
+    "source": "Marjane",
+    "destination": "SocoAlto",
+    "path": ["Marjane", "Mesnana", "SocoAlto"],
+    "distance": 7.10
+  },
+  {
+    "source": "Marjane",
+    "destination": "MarinaBay",
+    "path": ["Marjane", "Mesnana", "Iberia", "MarinaBay"],
+    "distance": 11.40
+  },
+  {
+    "source": "Marjane",
+    "destination": "Iberia",
+    "path": ["Marjane", "Mesnana", "Iberia"],
+    "distance": 8.10
+  },
+  {
+    "source": "Marjane",
+    "destination": "Bnimakada",
+    "path": ["Marjane", "Bnimakada"],
+    "distance": 3.80
+  },
+  {
+    "source": "Marjane",
+    "destination": "Merchan",
+    "path": ["Marjane", "Mesnana", "Iberia", "Merchan"],
+    "distance": 9.10
+  },
+  {
+    "source": "Marjane",
+    "destination": "TanjaBalia",
+    "path": ["Marjane", "Bnimakada", "RiadTetouan", "TanjaBalia"],
+    "distance": 12.60
+  },
+  {
+    "source": "Marjane",
+    "destination": "RiadTetouan",
+    "path": ["Marjane", "Bnimakada", "RiadTetouan"],
+    "distance": 8.20
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "Boukhalef",
+    "path": ["SocoAlto", "Mesnana", "Boukhalef"],
+    "distance": 9.60
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "Achakar",
+    "path": ["SocoAlto", "Achakar"],
+    "distance": 12.30
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "Mesnana",
+    "path": ["SocoAlto", "Mesnana"],
+    "distance": 4.90
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "Marjane",
+    "path": ["SocoAlto", "Mesnana", "Marjane"],
+    "distance": 7.10
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "MarinaBay",
+    "path": ["SocoAlto", "Iberia", "MarinaBay"],
+    "distance": 6.60
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "Iberia",
+    "path": ["SocoAlto", "Iberia"],
+    "distance": 3.30
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "Bnimakada",
+    "path": ["SocoAlto", "Iberia", "Bnimakada"],
+    "distance": 7.90
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "Merchan",
+    "path": ["SocoAlto", "Iberia", "Merchan"],
+    "distance": 4.30
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "TanjaBalia",
+    "path": ["SocoAlto", "Iberia", "RiadTetouan", "TanjaBalia"],
+    "distance": 10.40
+  },
+  {
+    "source": "SocoAlto",
+    "destination": "RiadTetouan",
+    "path": ["SocoAlto", "Iberia", "RiadTetouan"],
+    "distance": 6.00
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "Boukhalef",
+    "path": ["MarinaBay", "Iberia", "Mesnana", "Boukhalef"],
+    "distance": 13.90
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "Achakar",
+    "path": ["MarinaBay", "Iberia", "SocoAlto", "Achakar"],
+    "distance": 18.90
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "Mesnana",
+    "path": ["MarinaBay", "Iberia", "Mesnana"],
+    "distance": 9.20
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "Marjane",
+    "path": ["MarinaBay", "Iberia", "Mesnana", "Marjane"],
+    "distance": 11.40
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "SocoAlto",
+    "path": ["MarinaBay", "Iberia", "SocoAlto"],
+    "distance": 6.60
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "Iberia",
+    "path": ["MarinaBay", "Iberia"],
+    "distance": 3.30
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "Bnimakada",
+    "path": ["MarinaBay", "Iberia", "Bnimakada"],
+    "distance": 7.90
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "Merchan",
+    "path": ["MarinaBay", "Merchan"],
+    "distance": 3.00
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "TanjaBalia",
+    "path": ["MarinaBay", "TanjaBalia"],
+    "distance": 6.70
+  },
+  {
+    "source": "MarinaBay",
+    "destination": "RiadTetouan",
+    "path": ["MarinaBay", "RiadTetouan"],
+    "distance": 3.60
+  },
+  {
+    "source": "Iberia",
+    "destination": "Boukhalef",
+    "path": ["Iberia", "Mesnana", "Boukhalef"],
+    "distance": 10.60
+  },
+  {
+    "source": "Iberia",
+    "destination": "Achakar",
+    "path": ["Iberia", "SocoAlto", "Achakar"],
+    "distance": 15.60
+  },
+  {
+    "source": "Iberia",
+    "destination": "Mesnana",
+    "path": ["Iberia", "Mesnana"],
+    "distance": 5.90
+  },
+  {
+    "source": "Iberia",
+    "destination": "Marjane",
+    "path": ["Iberia", "Mesnana", "Marjane"],
+    "distance": 8.10
+  },
+  {
+    "source": "Iberia",
+    "destination": "SocoAlto",
+    "path": ["Iberia", "SocoAlto"],
+    "distance": 3.30
+  },
+  {
+    "source": "Iberia",
+    "destination": "MarinaBay",
+    "path": ["Iberia", "MarinaBay"],
+    "distance": 3.30
+  },
+  {
+    "source": "Iberia",
+    "destination": "Bnimakada",
+    "path": ["Iberia", "Bnimakada"],
+    "distance": 4.60
+  },
+  {
+    "source": "Iberia",
+    "destination": "Merchan",
+    "path": ["Iberia", "Merchan"],
+    "distance": 1.00
+  },
+  {
+    "source": "Iberia",
+    "destination": "TanjaBalia",
+    "path": ["Iberia", "RiadTetouan", "TanjaBalia"],
+    "distance": 7.10
+  },
+  {
+    "source": "Iberia",
+    "destination": "RiadTetouan",
+    "path": ["Iberia", "RiadTetouan"],
+    "distance": 2.70
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "Boukhalef",
+    "path": ["Bnimakada", "Marjane", "Boukhalef"],
+    "distance": 9.40
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "Achakar",
+    "path": ["Bnimakada", "Marjane", "Boukhalef", "Achakar"],
+    "distance": 16.80
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "Mesnana",
+    "path": ["Bnimakada", "Marjane", "Mesnana"],
+    "distance": 6.00
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "Marjane",
+    "path": ["Bnimakada", "Marjane"],
+    "distance": 3.80
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "SocoAlto",
+    "path": ["Bnimakada", "Iberia", "SocoAlto"],
+    "distance": 7.90
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "MarinaBay",
+    "path": ["Bnimakada", "Iberia", "MarinaBay"],
+    "distance": 7.90
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "Iberia",
+    "path": ["Bnimakada", "Iberia"],
+    "distance": 4.60
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "Merchan",
+    "path": ["Bnimakada", "Iberia", "Merchan"],
+    "distance": 5.60
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "TanjaBalia",
+    "path": ["Bnimakada", "RiadTetouan", "TanjaBalia"],
+    "distance": 8.80
+  },
+  {
+    "source": "Bnimakada",
+    "destination": "RiadTetouan",
+    "path": ["Bnimakada", "RiadTetouan"],
+    "distance": 4.40
+  },
+  {
+    "source": "Merchan",
+    "destination": "Boukhalef",
+    "path": ["Merchan", "Iberia", "Mesnana", "Boukhalef"],
+    "distance": 11.60
+  },
+  {
+    "source": "Merchan",
+    "destination": "Achakar",
+    "path": ["Merchan", "Iberia", "SocoAlto", "Achakar"],
+    "distance": 16.60
+  },
+  {
+    "source": "Merchan",
+    "destination": "Mesnana",
+    "path": ["Merchan", "Iberia", "Mesnana"],
+    "distance": 6.90
+  },
+  {
+    "source": "Merchan",
+    "destination": "Marjane",
+    "path": ["Merchan", "Iberia", "Mesnana", "Marjane"],
+    "distance": 9.10
+  },
+  {
+    "source": "Merchan",
+    "destination": "SocoAlto",
+    "path": ["Merchan", "Iberia", "SocoAlto"],
+    "distance": 4.30
+  },
+  {
+    "source": "Merchan",
+    "destination": "MarinaBay",
+    "path": ["Merchan", "MarinaBay"],
+    "distance": 3.00
+  },
+  {
+    "source": "Merchan",
+    "destination": "Iberia",
+    "path": ["Merchan", "Iberia"],
+    "distance": 1.00
+  },
+  {
+    "source": "Merchan",
+    "destination": "Bnimakada",
+    "path": ["Merchan", "Iberia", "Bnimakada"],
+    "distance": 5.60
+  },
+  {
+    "source": "Merchan",
+    "destination": "TanjaBalia",
+    "path": ["Merchan", "Iberia", "RiadTetouan", "TanjaBalia"],
+    "distance": 8.10
+  },
+  {
+    "source": "Merchan",
+    "destination": "RiadTetouan",
+    "path": ["Merchan", "Iberia", "RiadTetouan"],
+    "distance": 3.70
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "Boukhalef",
+    "path": ["TanjaBalia", "RiadTetouan", "Iberia", "Mesnana", "Boukhalef"],
+    "distance": 17.70
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "Achakar",
+    "path": ["TanjaBalia", "RiadTetouan", "Iberia", "SocoAlto", "Achakar"],
+    "distance": 22.70
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "Mesnana",
+    "path": ["TanjaBalia", "RiadTetouan", "Iberia", "Mesnana"],
+    "distance": 13.00
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "Marjane",
+    "path": ["TanjaBalia", "RiadTetouan", "Bnimakada", "Marjane"],
+    "distance": 12.60
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "SocoAlto",
+    "path": ["TanjaBalia", "RiadTetouan", "Iberia", "SocoAlto"],
+    "distance": 10.40
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "MarinaBay",
+    "path": ["TanjaBalia", "MarinaBay"],
+    "distance": 6.70
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "Iberia",
+    "path": ["TanjaBalia", "RiadTetouan", "Iberia"],
+    "distance": 7.10
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "Bnimakada",
+    "path": ["TanjaBalia", "RiadTetouan", "Bnimakada"],
+    "distance": 8.80
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "Merchan",
+    "path": ["TanjaBalia", "RiadTetouan", "Iberia", "Merchan"],
+    "distance": 8.10
+  },
+  {
+    "source": "TanjaBalia",
+    "destination": "RiadTetouan",
+    "path": ["TanjaBalia", "RiadTetouan"],
+    "distance": 4.40
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "Boukhalef",
+    "path": ["RiadTetouan", "Iberia", "Mesnana", "Boukhalef"],
+    "distance": 13.30
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "Achakar",
+    "path": ["RiadTetouan", "Iberia", "SocoAlto", "Achakar"],
+    "distance": 18.30
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "Mesnana",
+    "path": ["RiadTetouan", "Iberia", "Mesnana"],
+    "distance": 8.60
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "Marjane",
+    "path": ["RiadTetouan", "Bnimakada", "Marjane"],
+    "distance": 8.20
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "SocoAlto",
+    "path": ["RiadTetouan", "Iberia", "SocoAlto"],
+    "distance": 6.00
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "MarinaBay",
+    "path": ["RiadTetouan", "MarinaBay"],
+    "distance": 3.60
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "Iberia",
+    "path": ["RiadTetouan", "Iberia"],
+    "distance": 2.70
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "Bnimakada",
+    "path": ["RiadTetouan", "Bnimakada"],
+    "distance": 4.40
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "Merchan",
+    "path": ["RiadTetouan", "Iberia", "Merchan"],
+    "distance": 3.70
+  },
+  {
+    "source": "RiadTetouan",
+    "destination": "TanjaBalia",
+    "path": ["RiadTetouan", "TanjaBalia"],
+    "distance": 4.40
+  }
+]

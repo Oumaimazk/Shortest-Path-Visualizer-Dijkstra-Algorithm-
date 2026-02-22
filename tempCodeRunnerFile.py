@@ -1,0 +1,1 @@
+self.graph_frame = ctk.CTkFrame(self.root, corner_radius=10, fg_color="#1F1F1F")
